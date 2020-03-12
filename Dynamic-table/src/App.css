@@ -1,0 +1,10 @@
+.My_APP table tbody td{
+    width: 30%;
+}
+.My_APP table tbody td:last-child{
+    width: 10%;
+}
+
+#buttonIclass{
+    border-radius: 20px;
+}
